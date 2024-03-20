@@ -1,3 +1,7 @@
 # Hello! I'm MARKO! Full Stack Developer
 ## Hobbies 
-- Dancing
+- Dancinggit s
+## technologies 
+- HTML
+- CSS
+- JV
